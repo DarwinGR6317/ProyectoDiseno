@@ -67,153 +67,100 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="15dp"
             android:text="Ahualulco del Mercado"
             android:textSize="20sp"
             android:textStyle="bold"></TextView>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="160dp"
-            android:src="@drawable/arrow"></ImageView>
 
         <TextView
             android:id="@+id/Amatitán"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
             android:text="Amatitán"
             android:textSize="20sp"
             android:textStyle="bold"></TextView>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"
-            android:src="@drawable/arrow"></ImageView>
 
         <TextView
             android:id="@+id/Ameca"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
             android:text="Ameca"
             android:textSize="20sp"
             android:textStyle="bold"></TextView>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:src="@drawable/arrow"></ImageView>
 
         <TextView
             android:id="@+id/Cocula"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
             android:text="Cocula"
             android:textSize="20sp"
             android:textStyle="bold"></TextView>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"
-            android:src="@drawable/arrow"></ImageView>
 
         <TextView
             android:id="@+id/Arenal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
             android:text="El Arenal"
             android:textSize="20sp"
             android:textStyle="bold"></TextView>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"
-            android:src="@drawable/arrow"></ImageView>
 
         <TextView
             android:id="@+id/Etzatlán"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
             android:text="Etzatlán"
             android:textSize="20sp"
             android:textStyle="bold"></TextView>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="30dp"
-            android:src="@drawable/arrow"></ImageView>
 
         <TextView
             android:id="@+id/Magdalena"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
             android:text="Magdalena"
             android:textSize="20sp"
             android:textStyle="bold"></TextView>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="40dp"
-            android:src="@drawable/arrow"></ImageView>
 
         <TextView
             android:id="@+id/JuanitoEscobedo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
             android:text="San Juanito de Escobedo"
             android:textSize="20sp"
             android:textStyle="bold"></TextView>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="160dp"
-            android:src="@drawable/arrow"></ImageView>
 
         <TextView
             android:id="@+id/MartínHidalgo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
             android:text="San Martín Hidalgo"
             android:textSize="20sp"
             android:textStyle="bold"></TextView>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="140dp"
-            android:src="@drawable/arrow"></ImageView>
 
         <TextView
             android:id="@+id/Tala"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
             android:text="Tala"
             android:textSize="20sp"
             android:textStyle="bold"></TextView>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="5dp"
-            android:src="@drawable/arrow">
-
-        </ImageView>
 
         <ImageView
             android:layout_width="wrap_content"
@@ -225,7 +172,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="70dp"
+        android:layout_height="111dp"
         android:background="#fde767"
         android:backgroundTint="#fde767"
         android:orientation="horizontal">
